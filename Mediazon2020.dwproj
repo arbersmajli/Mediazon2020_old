@@ -64,7 +64,7 @@
           <ConfigurationSetting>
             <Id>MediazonDB</Id>
             <Name>MediazonDB</Name>
-            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=WServer2020;Integrated Security=SSPI;Initial Catalog=MediazonDWH</Value>
+            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=WSERVER2019;Integrated Security=SSPI;Initial Catalog=MediazonDWH</Value>
           </ConfigurationSetting>
         </ConnectionMappings>
         <ConnectionSecurityMappings>
